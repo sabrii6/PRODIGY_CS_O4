@@ -19,7 +19,7 @@ sudo apt install python3
 ## How To Use
 1.Clone the repository:
 ````
-https://github.com/sabrii6/PRODIGY_CS_04.git
+https://github.com/sabrii6/PRODIGY_CS_O4.git
 ````
 2.Navigate to the Directory:
 ````
